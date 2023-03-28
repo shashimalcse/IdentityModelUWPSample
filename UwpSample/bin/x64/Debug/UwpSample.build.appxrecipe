@@ -55,7 +55,7 @@
     <AppxPackagedFile Include="C:\Users\WSO2\.nuget\packages\microsoft.identitymodel.tokens\5.1.5\lib\netstandard1.4\Microsoft.IdentityModel.Tokens.dll">
       <PackagePath>Microsoft.IdentityModel.Tokens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\WSO2\.nuget\packages\newtonsoft.json\10.0.3\lib\netstandard1.3\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\WSO2\.nuget\packages\newtonsoft.json\13.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\WSO2\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.0.6\runtimes\win10-x64\nativeassets\uap10.0.15138\clrcompression.dll">

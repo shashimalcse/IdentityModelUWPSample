@@ -18,7 +18,14 @@
             <Button x:ConnectionId='3' x:Name="LoginWabButton" Content="Login with WAB"                              />
             <Button x:ConnectionId='4' x:Name="LoginSysBrowserButton" Content="Login with System Browser" Margin="5,0,0,0"                                   />
             <Button x:ConnectionId='5' x:Name="CallApiButton" Content="Call API"  Margin="5,0,0,0"                            />
-        </StackPanel>
+            <Button x:ConnectionId='6' x:Name="GetMeButton" Content="Get Me"                               />
+            <Button x:ConnectionId='7' x:Name="AddUserButton" Content="Add User"                                    />
+            <Button x:ConnectionId='8' x:Name="GetTokenButton" Content="Get Token"                              />
+            <Button x:ConnectionId='9' x:Name="CreateUserButton" Content="Create User"                                />
+            <Button x:ConnectionId='10' x:Name="GetUsersButton" Content="Get Users"                              />
+            <Button x:ConnectionId='11' x:Name="UpdateMeButton" Content="Update Me"                              />
+
+            </StackPanel>
         <TextBox x:ConnectionId='2' Grid.Row="1" x:Name="ResultTextBox" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="TextBox" />
 
     </Grid>

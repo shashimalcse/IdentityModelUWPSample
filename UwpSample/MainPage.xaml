@@ -18,7 +18,14 @@
             <Button x:Name="LoginWabButton" Content="Login with WAB"  Click="LoginWabButton_Click"/>
             <Button x:Name="LoginSysBrowserButton" Content="Login with System Browser" Margin="5,0,0,0" Click="LoginSysBrowseButton_Click"/>
             <Button x:Name="CallApiButton" Content="Call API"  Margin="5,0,0,0" Click="CallApiButton_Click"/>
-        </StackPanel>
+            <Button x:Name="GetMeButton" Content="Get Me"  Click="GetGroupsButton_Click"/>
+            <Button x:Name="AddUserButton" Content="Add User"  Click="AddUserToGroupButton_Click"/>
+            <Button x:Name="GetTokenButton" Content="Get Token"  Click="GetTokenButton_Click"/>
+            <Button x:Name="CreateUserButton" Content="Create User"  Click="CreateUserButton_Click"/>
+            <Button x:Name="GetUsersButton" Content="Get Users"  Click="GetUsersButton_Click"/>
+            <Button x:Name="UpdateMeButton" Content="Update Me"  Click="UpdateMeButton_Click"/>
+
+            </StackPanel>
         <TextBox Grid.Row="1" x:Name="ResultTextBox" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="TextBox" />
 
     </Grid>
