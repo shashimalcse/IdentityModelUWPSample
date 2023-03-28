@@ -1,0 +1,1 @@
+C:\Users\WSO2\Downloads\IdentityModel.OidcClient.Samples-main\IdentityModel.OidcClient.Samples-main\Uwp\UwpSample\UwpSample.csproj;x64
